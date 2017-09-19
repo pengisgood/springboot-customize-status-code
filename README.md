@@ -1,6 +1,10 @@
 # springboot-customize-status-code
 
-Question refer to [here](https://stackoverflow.com/questions/46283086/spring-boot-request-hang-there-when-return-1xx-status-code)
+> java: 8
+
+> gradle: 4.1
+
+> Question refer to [here](https://stackoverflow.com/questions/46283086/spring-boot-request-hang-there-when-return-1xx-status-code)
 
 ## How to run the demo
 
