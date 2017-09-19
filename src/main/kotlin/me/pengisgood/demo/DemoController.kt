@@ -9,6 +9,6 @@ class DemoController {
 
     @GetMapping("/hello")
     fun helloKotlin(): ResponseEntity<Any> {
-        return ResponseEntity.status(233).build()
+        return ResponseEntity.status(105).build()
     }
 }
